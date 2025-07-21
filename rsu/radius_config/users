@@ -1,5 +1,6 @@
-obu1 Cleartext-Password := "tugasakhir"
-obu2 Cleartext-Password := "123"
-rsu Cleartext-Password := "password"
-robbyan Cleartext-Password := "hadeh"
-ramiza Cleartext-Password := "jalan"
+//tambahkan user dan password untuk users RADIUS di /etc/freeradius/3.0/users
+user1 Cleartext-Password := "password1"
+user2 Cleartext-Password := "password2"
+user3 Cleartext-Password := "password3"
+user4 Cleartext-Password := "password4"
+user5 Cleartext-Password := "password5"
