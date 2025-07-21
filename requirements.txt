@@ -1,0 +1,6 @@
+RPLCD
+adafruit-circuitpython-pn532
+adafruit-blinka
+smbus2
+flask
+pymongo
