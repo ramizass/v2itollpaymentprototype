@@ -1,2 +1,2 @@
-#tambahkan di /boot/firmware/config.txt untuk menambahkan port gpio 
+#tambahkan di /boot/firmware/config.txt untuk menambahkan i2c gpio
 dtoverlay=i2c-gpio,i2c_gpio_sda=17,i2c_gpio_scl=27,bus=3
