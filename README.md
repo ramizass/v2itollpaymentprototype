@@ -8,8 +8,6 @@ The V2I-based automatic toll payment system consists of an integration of severa
 5. Performance measurement of delay, throughput, and avalanche effect
 
 ### System Architecture
-<img width="674" height="246" alt="Picture1" src="https://github.com/user-attachments/assets/b59accb2-d289-4f28-a876-a128e44e662d" />
-<img width="841" height="513" alt="image" src="https://github.com/user-attachments/assets/473cace7-d283-445e-a9da-50af21c4057b" />
-
+<img width="1920" height="1080" alt="CONNECTION" src="https://github.com/user-attachments/assets/e34ab89c-ff0b-463b-b7db-d35f08a37c8f" />
 
 The system architecture illustrates the interconnection between the three main components with clearly defined communication protocols. The On-Board Unit (OBU) communicates with the Roadside Unit (RSU) over a local Wi-Fi network secured by RADIUS authentication, while the RSU is integrated with a backend server for transaction data synchronization. 
